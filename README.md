@@ -1,5 +1,5 @@
 # Petodoro
-A cute pet pomodoro timer that acts as a google chrome extension, still a work in progress :) 
+A cute pet pomodoro timer that acts as a google chrome extension, still a work in progress but mostly done :) 
 
 ## Prerequisites
 
